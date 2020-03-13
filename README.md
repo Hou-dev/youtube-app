@@ -1,4 +1,4 @@
-# youtube-app
+# Youtube App
 Basic electron app for youtube
 Testing electron to convert a web page to a desktop app
 
