@@ -1,0 +1,14 @@
+{
+  "name": "youtube_app",
+  "version": "1.0.0",
+  "description": "Youtube application",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Javed Sahadat",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^8.1.1"
+  }
+}
